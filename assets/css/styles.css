@@ -1,0 +1,42 @@
+﻿/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+main {
+    padding: 20px;
+}
+
+.game-card, .prize-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 400px;
+    text-align: center;
+}
+
+    .prize-card img {
+        width: 300px;
+        height: auto;
+    }
