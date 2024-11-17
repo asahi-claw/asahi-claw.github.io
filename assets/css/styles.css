@@ -32,11 +32,15 @@ main {
     padding: 5px;
     margin: 5px;
     display: inline-block;
-    width: 300px;
+    width: 250px;
     text-align: center;
 }
 
     .prize-card img {
-        width: 250px;
+        width: 230px;
+        height: auto;
+    }
+    .game-card img {
+        width: 230px;
         height: auto;
     }
