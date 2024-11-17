@@ -7,20 +7,20 @@ body {
 }
 
 header {
-    background-color: rgb(245, 171, 245);
-    color: white;
+    background-color: rgba(245, 171, 245, 0.534);
+    color: rgb(119, 0, 255);
     padding: 10px;
     text-align: center;
 }
 
 nav a {
-    color: white;
+    color: rgba(218, 25, 25, 0.801);
     margin: 0 10px;
     text-decoration: none;
 }
 
 h1, h2, h3 {
-    color: #333;
+    color: rgb(161, 81, 207);
 }
 
 main {
@@ -28,7 +28,7 @@ main {
 }
 
 .game-card, .prize-card {
-    border: 1px solid rgb(209, 233, 154);
+    border: 1px solid rgba(221, 102, 231, 0.568);
     padding: 5px;
     margin: 5px;
     display: inline-block;
@@ -37,10 +37,10 @@ main {
 }
 
     .prize-card img {
-        width: 230px;
+        max-width: 90%;
         height: auto;
     }
     .game-card img {
-        width: 230px;
+        max-width: 90%;
         height: auto;
     }
