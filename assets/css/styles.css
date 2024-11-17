@@ -14,7 +14,7 @@ header {
 }
 
 nav a {
-    color: rgba(218, 25, 25, 0.801);
+    color: rgba(218, 25, 115, 0.801);
     margin: 0 10px;
     text-decoration: none;
 }
@@ -28,7 +28,7 @@ main {
 }
 
 .game-card, .prize-card {
-    border: 1px solid rgba(221, 102, 231, 0.568);
+    border: 3px solid rgba(221, 102, 231, 0.568);
     padding: 5px;
     margin: 5px;
     display: inline-block;
